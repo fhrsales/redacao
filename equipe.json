@@ -1,0 +1,466 @@
+{
+    "id": "Novo Estadão",
+    "pessoas": "",
+    "children": [
+        {
+            "id": "Coração da Redação",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor-executivo de Planejamento",
+                    "nome": "",
+                    "pessoas": 2
+                },
+                {
+                    "id": "Editor-executivo de Informação",
+                    "nome": "",
+                    "pessoas": 2
+                },
+                {
+                    "id": "Editor-executivo Multimidia",
+                    "nome": "",
+                    "pessoas": 1,
+                    "children": [{
+                        "id": "Editor-assistente Multimídia",
+                        "nome": "",
+                        "pessoas": 1,
+                        "children": [
+                            {
+                                "id": "Gerente de produto digital",
+                                "nome": "",
+                                "pessoas": "",
+                                "children": [
+                                    {
+                                        "id": "Vídeo",
+                                        "nome": "",
+                                        "pessoas": 2,
+                                        "children": [{
+                                                "id": "Equipe de vídeo",
+                                                "pessoas": ""
+                                        }
+                                                    ]
+                                    },
+                                    {
+                                        "id": "Fotografia digital",
+                                        "pessoas": 2,
+                                        "children": [{
+                                                "id": "Equipe de fotógrafos",
+                                                "pessoas": ""
+                                        }
+                                                    ]
+                                    },
+                                    {
+                                        "id": "Infografia digital",
+                                        "pessoas": 2,
+                                        "children": [
+                                            {
+                                                "id": "Equipe de infografia digital",
+                                                "pessoas": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "Programadores",
+                                        "pessoas": ""
+                                    },
+                                    {
+                                        "id": "Webdesingers",
+                                        "pessoas": ""
+
+                                    },
+                                    {
+                                        "id": "Elo Rádio",
+                                        "pessoas": 2
+                                    },
+                                    {
+                                        "id": "Project Manager",
+                                        "pessoas": ""
+                                    },
+                                    {
+                                        "id": "Seo",
+                                        "pessoas": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }]
+                },
+                {
+                    "id": "Editor de Conteúdos Premium",
+                    "nome": "",
+                    "pessoas": 1
+                }
+            ]
+        },
+        {
+            "id": "Mesa 24/7",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor Digital 24/7",
+                    "nome": "",
+                    "pessoas": 2,
+                    "children": [
+                        {
+                            "id": "Editor da home",
+                            "nome": "",
+                            "pessoas": 3,
+                            "children": [
+                                {
+                                    "id": "Equipe da home",
+                                    "nome": "",
+                                    "pessoas": 6
+                                },
+                                {
+                                    "id": "Plantão da madrugada",
+                                    "nome": "",
+                                    "pessoas": 1
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Editor de newsletter",
+                            "nome": "",
+                            "pessoas": 1
+                        },
+                        {
+                            "id": "Editor de comunidades",
+                            "nome": "",
+                            "pessoas": 1
+                        },
+                        {
+                            "id": "Editor de redes sociais",
+                            "nome": "",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Analistas de redes sociais",
+                                    "nome": "",
+                                    "pessoas": 5
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Radar",
+                            "nome": "",
+                            "pessoas": 2
+                        },
+                        {
+                            "id": "Métricas",
+                            "nome": "",
+                            "pessoas": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Mesa impresso",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Editor",
+                    "nome": "",
+                    "pessoas": 1,
+                    "children": [
+                        {
+                            "id": "Editor-assistente",
+                            "nome": "",
+                            "pessoas": 1
+                        },
+                        {
+                            "id": "Editor da primeira página",
+                            "nome": "",
+                            "pessoas": 2
+                        },
+                        {
+                            "id": "Mesa Arte",
+                            "pessoas": "",
+                            "children": [
+                                {
+                                    "id": "Editor de Arte",
+                                    "nome": "",
+                                    "pessoas": 1,
+                                    "children": [
+                                        {
+                                            "id": "Fotografia",
+                                            "nome": "",
+                                            "pessoas": 1
+                                        },
+                                        {
+                                            "id": "Infografia",
+                                            "nome": "",
+                                            "pessoas": 2
+                                        },
+                                        {
+                                            "id": "Diagramação",
+                                            "nome": "",
+                                            "pessoas": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Área temática Política",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Política",
+                    "nome": "",
+                    "pessoas": "",
+                    "children": [{
+                            "id": "Editor de Política",
+                            "pessoas": "1",
+                            "children": [
+                                {
+                                    "id": "Editor-assistente de Política/Elo impresso",
+                                    "nome": "",
+                                    "pessoas": 5
+                                },
+                                {
+                                    "id": "Equipe de Política",
+                                    "pessoas": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Internacional",
+                    "nome": "",
+                    "pessoas": "",
+                    "children": [
+                        {
+                            "id": "Editor de Internacional",
+                            "pessoas": "1",
+                            "children": [
+                                {
+                                    "id": "Equipe de Internacional",
+                                    "pessoas": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Elo BSB/Política",
+                    "nome": "",
+                    "pessoas": ""
+                },
+                {
+                    "id": "Elo RJ/Política",
+                    "nome": "",
+                    "pessoas": ""
+                }
+            ]
+        },
+        {
+            "id": "Área temática Economia",
+            "nome": "",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Economia",
+                    "nome": "",
+                    "pessoas": "",
+                    "children": [
+                        {
+                            "id": "Editor de Economia",
+                            "pessoas": 1,
+                            "children": [{
+                                    "id": "Editor-assistente de Economia / Elo impresso",
+                                    "pessoas": 5
+                            },
+                                {
+                                    "id": "Equipe de Economia",
+                                    "pessoas": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Negócios",
+                    "nome": "",
+                    "pessoas": "",
+                    "children": [
+                        {
+                            "id": "Editor de Negócios",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de Negócios",
+                                    "pessoas": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "PME, Link e Inovação",
+                    "nome": "",
+                    "pessoas": "",
+                    "children": [
+                        {
+                            "id": "Editor de PME, Link e Inovação",
+                            "nome": "",
+                            "pessoas": 1,
+                            "children": [{
+                                    "id": "Equipe do PME, Link e Inovação",
+                                    "nome": "",
+                                    "pessoas": ""
+                                    }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Elo BSB/Economia",
+                    "nome": "",
+                    "pessoas": ""
+                },
+                {
+                    "id": "Elo RJ/Economia",
+                    "nome": "",
+                    "pessoas": ""
+                }
+            ]
+        },
+        {
+            "id": "Área temática São Paulo",
+            "pessoas": "",
+            "children": [
+                {
+                    "id": "Metrópole",
+                    "pessoas": "",
+                    "children": [
+                        {
+                            "id": "Editor de Metrópole",
+                            "nome": "",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Editor-assistente de Metrópole/Elo impresso",
+                                    "pessoas": 1
+                                },
+                                {
+                                    "id": "Equipe metrópole",
+                                    "pessoas": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "Caderno 2",
+                    "pessoas": "",
+                    "children": [
+                        {
+                            "id": "Editor do Caderno 2",
+                            "pessoas": 1,
+                            "children": [{
+                                    "id": "Editor-assistente do Caderno 2",
+                                    "nome": "",
+                                    "pessoas": 1
+                        },
+                                {
+                                    "id": "Equipe do Caderno 2",
+                                    "nome": "",
+                                    "pessoas": ""
+                        }]
+                        }
+                    ]
+                },
+                {
+                    "id": "Esportes",
+                    "pessoas": "",
+                    "children": [
+                        {
+                            "id": "Editor de Esportes",
+                            "pessoas": 1,
+                            "children": [{
+                                    "id": "Editor-assistente de Esportes / Elo impresso",
+                                    "pessoas": 1
+                        },
+                                {
+                                    "id": "Equipe Esportes",
+                                    "pessoas": ""
+                        }]
+                        }
+                    ]
+                },
+                {
+                    "id": "Verticais",
+                    "pessoas": "",
+                    "children": [{
+                        "id": "Editor de verticais",
+                        "nome": "",
+                        "pessoas": 1,
+                        "children": [
+                            {
+                                "id": "Editor-assistente de verticais/Elo impresso",
+                                "nome": "",
+                                "pessoas": 1
+                            },
+                            {
+                                "id": "Equipe de verticais",
+                                "pessoas": "",
+                                "children": [
+                                    {
+                                        "id": "Viagem",
+                                        "pessoas": ""
+                            },
+                                    {
+                                        "id": "Paladar",
+                                        "pessoas": ""
+                            },
+                                    {
+                                        "id": "Casa",
+                                        "pessoas": ""
+                            },
+                                    {
+                                        "id": "Divirta-se",
+                                        "pessoas": ""
+                            },
+                                    {
+                                        "id": "Jornal do Carro",
+                                        "pessoas": ""
+                            },
+                                    {
+                                        "id": "Classificados",
+                                        "pessoas": ""
+                            }
+                            ]
+                        }
+                        ]
+                    }]
+
+                }
+            ]
+        },
+        {
+            "id": "* Fausto Macedo"
+        },
+        {
+            "id": "* Sonia Racy"
+        },
+        {
+            "id": "* Acervo"
+        },
+        {
+            "id": "* Blog do Fausto"
+        },
+        {
+            "id": "* Estadão Dados"
+        }
+
+]
+}
