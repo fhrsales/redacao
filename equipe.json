@@ -299,7 +299,7 @@
                     "pessoas": "",
                     "children": [
                         {
-                            "id": "Editor de Negócios",
+                            "id": "Editor de Negócios incorpora PME",
                             "pessoas": 1,
                            "nome": "Cris Barbieri e boni apoia pme vem pra ca" ,
                             "children": [
@@ -317,7 +317,7 @@
                     "pessoas": "1",
                     "children": [
                         {
-                            "id": "Editor de PME, Link e Inovação",
+                            "id": "Editor Link e Inovação (fica so inovacao)",
                             "nome": "",
                             "pessoas": 1,
                             "children": [{
