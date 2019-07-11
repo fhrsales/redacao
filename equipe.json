@@ -219,10 +219,10 @@
             "children": [
                 {
                     "id": "Política",
-                    "nome": "",
-                    "pessoas": "",
+                    "nome": "Kattah",
+                    "pessoas": "1",
                     "children": [{
-                            "id": "Editor de Política",
+                            "id": "Coordenador de Política",
                             "pessoas": "1",
                             "children": [
                                 {
@@ -244,7 +244,7 @@
                     "pessoas": "",
                     "children": [
                         {
-                            "id": "Editor de Internacional",
+                            "id": "coordenador de Internacional",
                             "pessoas": "1",
                             "children": [
                                 {
@@ -274,12 +274,13 @@
             "children": [
                 {
                     "id": "Economia",
-                    "nome": "",
+                    "nome": "Calais",
                     "pessoas": "",
                     "children": [
                         {
                             "id": "Editor de Economia",
                             "pessoas": 1,
+                            "nome": "Katia",
                             "children": [{
                                     "id": "Editor-assistente de Economia / Elo impresso",
                                     "pessoas": 5
@@ -300,6 +301,7 @@
                         {
                             "id": "Editor de Negócios",
                             "pessoas": 1,
+                           "nome": "Cris Barbieri e boni apoia pme vem pra ca" ,
                             "children": [
                                 {
                                     "id": "Equipe de Negócios",
@@ -310,9 +312,9 @@
                     ]
                 },
                 {
-                    "id": "PME, Link e Inovação",
-                    "nome": "",
-                    "pessoas": "",
+                    "id": "Inovação (link e inovacao)",
+                    "nome": "Bruno",
+                    "pessoas": "1",
                     "children": [
                         {
                             "id": "Editor de PME, Link e Inovação",
