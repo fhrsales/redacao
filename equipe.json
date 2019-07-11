@@ -24,15 +24,15 @@
                 },
                 {
                     "id": "Editor-executivo Multimidia",
-                    "nome": "",
+                    "nome": "Fabio Sales",
                     "pessoas": 1,
                     "children": [{
-                        "id": "Editor-assistente Multimídia",
+                        "id": "",
                         "nome": "",
-                        "pessoas": 1,
+                        "pessoas": "",
                         "children": [
                             {
-                                "id": "Gerente de produto digital",
+                                "id": "Gerente de produto digital vai sair daqui",
                                 "nome": "",
                                 "pessoas": "",
                                 "children": [
