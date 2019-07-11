@@ -172,13 +172,18 @@
                     "pessoas": 1,
                     "children": [
                         {
-                            "id": "subeditor do impresso",
+                            "id": "editor do impresso",
                             "nome": "Bira",
                             "pessoas": 1
                         },
+                                                {
+                            "id": "redatores",
+                            "nome": "",
+                            "pessoas": 12
+                        },
                         {
                             "id": "Redator da primeira página",
-                            "nome": "Baschera",
+                            "nome": "Baschera e agnaldo",
                             "pessoas": 2
                         },
                         {
@@ -227,7 +232,7 @@
                             "children": [
                                 {
                                     "id": "Editor-assistente de Política/Elo impresso",
-                                    "nome": "",
+                                    "nome": "Fernanda e Valmar rodrigo ?? angela cris",
                                     "pessoas": 5
                                 },
                                 {
@@ -283,7 +288,8 @@
                             "nome": "Katia",
                             "children": [{
                                     "id": "Editor-assistente de Economia / Elo impresso",
-                                    "pessoas": 5
+                                "nome": "Ney e Sandra"    
+                                "pessoas": 5
                             },
                                 {
                                     "id": "Equipe de Economia",
@@ -357,6 +363,7 @@
                             "children": [
                                 {
                                     "id": "Editor-assistente de Metrópole/Elo impresso",
+                                    "nome": "",
                                     "pessoas": 1
                                 },
                                 {
