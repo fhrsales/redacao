@@ -9,8 +9,13 @@
             "children": [
                 {
                     "id": "Editor-executivo de Planejamento",
-                    "nome": "",
-                    "pessoas": 2
+                    "nome": "Grinbaum",
+                    "pessoas": 1
+                },
+                                {
+                    "id": "Editor de Planejamento",
+                    "nome": "Garbin",
+                    "pessoas": 1
                 },
                 {
                     "id": "Editor-executivo de Informação",
