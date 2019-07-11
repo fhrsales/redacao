@@ -93,7 +93,7 @@
                 },
                 {
                     "id": "Editor de Conteúdos Premium",
-                    "nome": "",
+                    "nome": "Ana Sacoman",
                     "pessoas": 1
                 }
             ]
@@ -167,18 +167,18 @@
             "pessoas": "",
             "children": [
                 {
-                    "id": "Editor",
-                    "nome": "",
+                    "id": "Editor coordenador impresso",
+                    "nome": "Guilherme",
                     "pessoas": 1,
                     "children": [
                         {
-                            "id": "Editor-assistente",
-                            "nome": "",
+                            "id": "subeditor do impresso",
+                            "nome": "Bira",
                             "pessoas": 1
                         },
                         {
                             "id": "Redator da primeira página",
-                            "nome": "",
+                            "nome": "Baschera",
                             "pessoas": 2
                         },
                         {
