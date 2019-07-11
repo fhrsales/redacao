@@ -343,7 +343,8 @@
         },
         {
             "id": "Área temática São Paulo",
-            "pessoas": "",
+            "pessoas": "1",
+            "nome": "Daniel",
             "children": [
                 {
                     "id": "Metrópole",
@@ -351,7 +352,7 @@
                     "children": [
                         {
                             "id": "Editor de Metrópole",
-                            "nome": "",
+                            "nome": "Bia",
                             "pessoas": 1,
                             "children": [
                                 {
@@ -368,7 +369,7 @@
                 },
                 {
                     "id": "Caderno 2",
-                    "pessoas": "",
+                    "pessoas": "Toninho",
                     "children": [
                         {
                             "id": "Editor do Caderno 2",
@@ -393,6 +394,7 @@
                         {
                             "id": "Editor de Esportes",
                             "pessoas": 1,
+                            "nome": "Morelli",
                             "children": [{
                                     "id": "Editor-assistente de Esportes / Elo impresso",
                                     "pessoas": 1
