@@ -231,9 +231,9 @@
                             "pessoas": "1",
                             "children": [
                                 {
-                                    "id": "Editor-assistente de Política/Elo impresso",
+                                    "id": "caiu Editor-assistente de Política/Elo impresso",
                                     "nome": "Fernanda e Valmar rodrigo ?? angela cris",
-                                    "pessoas": 5
+                                    "pessoas": ""
                                 },
                                 {
                                     "id": "Equipe de Política",
@@ -287,9 +287,9 @@
                             "pessoas": 1,
                             "nome": "Katia",
                             "children": [{
-                                    "id": "Editor-assistente de Economia / Elo impresso",
+                                    "id": "caiu Editor-assistente de Economia / Elo impresso",
                                 "nome": "Ney e Sandra"    
-                                "pessoas": 5
+                                "pessoas": ""
                             },
                                 {
                                     "id": "Equipe de Economia",
@@ -362,9 +362,9 @@
                             "pessoas": 1,
                             "children": [
                                 {
-                                    "id": "Editor-assistente de Metrópole/Elo impresso",
+                                    "id": "caiu Editor-assistente de Metrópole/Elo impresso",
                                     "nome": "",
-                                    "pessoas": 1
+                                    "pessoas": ""
                                 },
                                 {
                                     "id": "Equipe metrópole",
@@ -382,9 +382,9 @@
                             "id": "Editor do Caderno 2",
                             "pessoas": 1,
                             "children": [{
-                                    "id": "Editor-assistente do Caderno 2",
+                                    "id": "caiu Editor-assistente do Caderno 2",
                                     "nome": "",
-                                    "pessoas": 1
+                                    "pessoas": ""
                         },
                                 {
                                     "id": "Equipe do Caderno 2",
@@ -403,8 +403,8 @@
                             "pessoas": 1,
                             "nome": "Morelli",
                             "children": [{
-                                    "id": "Editor-assistente de Esportes / Elo impresso",
-                                    "pessoas": 1
+                                    "id": "caiu Editor-assistente de Esportes / Elo impresso",
+                                    "pessoas": ""
                         },
                                 {
                                     "id": "Equipe Esportes",
@@ -422,9 +422,9 @@
                         "pessoas": 1,
                         "children": [
                             {
-                                "id": "Editor-assistente de verticais/Elo impresso",
+                                "id": "caiu Editor-assistente de verticais/Elo impresso",
                                 "nome": "",
-                                "pessoas": 1
+                                "pessoas": ""
                             },
                             {
                                 "id": "Equipe de verticais",
