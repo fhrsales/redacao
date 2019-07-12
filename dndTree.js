@@ -344,7 +344,7 @@ treeJSON = d3.json("equipe.json", function (error, treeData) {
             }
         };
         childCount(0, root);
-        var newHeight = d3.max(levelWidth) * 35; // 25 pixels per line  
+        var newHeight = d3.max(levelWidth) * 30; // 25 pixels per line  
         tree = tree.size([newHeight, viewerWidth]);
 
         // Compute the new tree layout.
@@ -353,7 +353,7 @@ treeJSON = d3.json("equipe.json", function (error, treeData) {
 
         // Set widths between levels based on maxLabelLength.
         nodes.forEach(function (d) {
-            d.y = (d.depth * (maxLabelLength * 5)); //maxLabelLength * 10px
+            d.y = (d.depth * (maxLabelLength * 7)); //maxLabelLength * 10px
             // alternatively to keep a fixed scale one can set a fixed depth per level
             // Normalize for fixed-depth by commenting out below line
             // d.y = (d.depth * 500); //500px per level.
@@ -383,13 +383,12 @@ treeJSON = d3.json("equipe.json", function (error, treeData) {
             .style("fill", function (d) {
                 return d._children ? "lightsteelblue" : "#fff";
             });
-
         nodeEnter.append("text")
             .attr("x", function (d) {
                 return d.children || d._children ? -10 : 10;
             })
             .attr("dy", ".35em")
-            .attr("dx", ".6em")
+            .attr("dx", ".2em")
             .attr('class', 'nodeText')
             .attr("text-anchor", function (d) {
                 return d.children || d._children ? "end" : "start";
@@ -422,9 +421,8 @@ treeJSON = d3.json("equipe.json", function (error, treeData) {
                 return d.children || d._children ? "start" : "start";
             })
             .text(function (d) {
-                return d.pessoas + " " + d.id;
-            });
-
+                return d.pessoas + " " + d.id + ": " + d.nome;
+            })
         // Change the circle fill depending on whether it has children and is collapsed
         node.select("circle.nodeCircle")
             .attr("r", function (d) {
