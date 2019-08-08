@@ -389,11 +389,6 @@
                             ]
                         },
                         {
-                            "id": "E+",
-                            "nome": "",
-                            "pessoas": ""
-                        },
-                        {
                             "id": "Coordenador de verticais",
                             "nome": "Tião",
                             "pessoas": 1,
@@ -429,6 +424,11 @@
                                     ]
                                 }
                             ]
+                        },
+                        {
+                            "id": "E+",
+                            "nome": "",
+                            "pessoas": ""
                         }
                     ]
                 }
