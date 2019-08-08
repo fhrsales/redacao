@@ -36,18 +36,6 @@
                     "pessoas": 1,
                     "children": [
                         {
-                            "id": "editor assistente de vídeo",
-                            "nome": "Everton Oliveira",
-                            "pessoas": 1,
-                            "children": [
-                                {
-                                    "id": "Equipe de videografistas",
-                                    "nome": "",
-                                    "pessoas": 5
-                                }
-                            ]
-                        },
-                        {
                             "id": "editores assitentes de fotografia",
                             "nome": "Clayton e Sergião",
                             "pessoas": 2,
@@ -80,11 +68,6 @@
                                     "pessoas": 6
                                 }
                             ]
-                        },
-                        {
-                            "id": "Elo Rádio",
-                            "nome": "",
-                            "pessoas": 2
                         },
                         {
                             "id": "Gerente de produtos digital",
@@ -150,6 +133,23 @@
                                     "pessoas": 5
                                 }
                             ]
+                        },
+                        {
+                            "id": "editor assistente de vídeo",
+                            "nome": "Everton Oliveira",
+                            "pessoas": 1,
+                            "children": [
+                                {
+                                    "id": "Equipe de videografistas",
+                                    "nome": "",
+                                    "pessoas": 5
+                                }
+                            ]
+                        },
+                        {
+                            "id": "Elo Rádio",
+                            "nome": "",
+                            "pessoas": 2
                         },
                         {
                             "id": "Métricas",
