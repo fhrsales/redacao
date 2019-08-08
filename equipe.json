@@ -157,11 +157,6 @@
                             "pessoas": ""
                         },
                         {
-                            "id": "E+",
-                            "nome": "",
-                            "pessoas": ""
-                        },
-                        {
                             "id": "Acervo",
                             "nome": "",
                             "pessoas": ""
@@ -392,6 +387,11 @@
                                     "pessoas": ""
                                 }
                             ]
+                        },
+                        {
+                            "id": "E+",
+                            "nome": "",
+                            "pessoas": ""
                         },
                         {
                             "id": "Coordenador de verticais",
