@@ -44,6 +44,11 @@
                                     "id": "Equipe de fotógrafos",
                                     "nome": "",
                                     "pessoas": 11
+                                },
+                                {
+                                    "id": "Operadores de telefoto",
+                                    "nome": "",
+                                    "pessoas": 3
                                 }
                             ]
                         },
